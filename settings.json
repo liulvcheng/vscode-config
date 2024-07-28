@@ -1,0 +1,94 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "gitlens.codeLens.scopes": ["document"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.accessibilityPageSize": 12,
+  "editor.cursorBlinking": "smooth",
+  "editor.fontLigatures": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": true,
+  "editor.minimap.side": "left",
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "all",
+  "editor.scrollbar.verticalScrollbarSize": 20,
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.stickyScroll.maxLineCount": 3,
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+  "files.maxMemoryForLargeFilesMB": 8192,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "gitlens.mode.active": "review",
+  "npm.keybindingsChangedWarningShown": true,
+  "oneDarkPro.bold": true,
+  "oneDarkPro.italic": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "search.followSymlinks": false,
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.smoothScrolling": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.tsserver.maxTsServerMemory": 8192,
+  "update.mode": "none",
+  "volar.autoCompleteRefs": true,
+  "vsicons.presets.hideFolders": true,
+  "vue.autoInsert.dotValue": true,
+  "window.commandCenter": true,
+  "window.confirmBeforeClose": "always",
+  "window.nativeTabs": true, // this is great, macOS only
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#09eb858c",
+    "tab.activeBorderTop": "#09eb858c"
+  },
+  "workbench.colorTheme": "Dracula Theme",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.wrapTabs": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.enableStickyScroll": "true",
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "always",
+
+  // "editor.fontSize": 18, // 27 inch
+  // "window.zoomLevel": 0.4, // 27 inch
+  "editor.fontSize": 17, // 13 inch
+  "window.zoomLevel": 0.4,
+}
